@@ -30,4 +30,17 @@ public class Graph {
             vertices[i].color = Vertex.WHITE;
         }
     }
+    public void BFS()
+    {
+        Vertex root = vertices[0];
+        root.color = Vertex.GREY;
+
+        VertexQueue q = new VertexQueue();
+        q.enqueue(root);
+
+        while (!q.isEmpty())
+        {
+            Vertex u = q.dequeue();
+        }
+    }
 }
