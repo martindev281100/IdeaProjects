@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="178bc897-95f3-4b92-8af9-0a38d91232a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DoublyList" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1USPq6FUfFqCRCSlJE7bUqUXEU8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="DoublyList" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="178bc897-95f3-4b92-8af9-0a38d91232a4" name="Default Changelist" comment="" />
+      <created>1575347211012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575347211012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575518557481">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="457" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1575518557481" />
+    <state x="806" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1575347319271">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="806" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1575347319271" />
+    <state x="910" y="308" width="166" height="501" key="#xdebugger.XInspectDialog" timestamp="1575519332944">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="910" y="308" width="166" height="501" key="#xdebugger.XInspectDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1575519332944" />
+    <state x="748" y="417" width="490" height="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575518579816">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="748" y="417" width="490" height="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/70.27.1850.1053@70.27.1850.1053" timestamp="1575518579816" />
+    <state width="435" height="466" key="DebuggerActiveHint" timestamp="1575519720294">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="435" height="466" key="DebuggerActiveHint/70.27.1850.1053@70.27.1850.1053" timestamp="1575519720294" />
+    <state x="781" y="298" width="424" height="497" key="FileChooserDialogImpl" timestamp="1575938793891">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="781" y="298" width="424" height="497" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1575938793891" />
+    <state width="1405" height="275" key="GridCell.Tab.0.bottom" timestamp="1575939237388">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1405" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1575939237388" />
+    <state width="1405" height="275" key="GridCell.Tab.0.center" timestamp="1575939237388">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1405" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1575939237388" />
+    <state width="1405" height="275" key="GridCell.Tab.0.left" timestamp="1575939237387">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1405" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1575939237387" />
+    <state width="1405" height="275" key="GridCell.Tab.0.right" timestamp="1575939237388">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1405" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1575939237388" />
+    <state width="1405" height="279" key="GridCell.Tab.1.bottom" timestamp="1575939219098">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1405" height="279" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1575939219098" />
+    <state width="1405" height="279" key="GridCell.Tab.1.center" timestamp="1575939219097">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1405" height="279" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1575939219097" />
+    <state width="1405" height="279" key="GridCell.Tab.1.left" timestamp="1575939219097">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1405" height="279" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1575939219097" />
+    <state width="1405" height="279" key="GridCell.Tab.1.right" timestamp="1575939219097">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1405" height="279" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1575939219097" />
+    <state x="279" y="55" key="SettingsEditor" timestamp="1575914473536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575914473536" />
+    <state x="471" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1575914395312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="471" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1575914395312" />
+    <state x="627" y="289" width="879" height="535" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575939182917">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="627" y="289" width="879" height="535" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/70.27.1850.1053@70.27.1850.1053" timestamp="1575939182917" />
+    <state x="203" y="33" key="new project wizard" timestamp="1575941369711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="203" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1575941369711" />
+    <state x="693" y="181" width="599" height="756" key="refactoring.ChangeSignatureDialog" timestamp="1575938907523">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="693" y="181" width="599" height="756" key="refactoring.ChangeSignatureDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1575938907523" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="prev.data" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DoublyList$Main.ic" NAME="Main Coverage Results" MODIFIED="1575939219068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

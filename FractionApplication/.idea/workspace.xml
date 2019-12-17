@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48431601-f2e6-45af-b6c2-8d19e815780f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UQgS14iLTLllsUIA6TPIWLfHgM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Fraction" type="Application" factoryName="Application">
+      <module name="FractionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48431601-f2e6-45af-b6c2-8d19e815780f" name="Default Changelist" comment="" />
+      <created>1575294228550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575294228550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="658" y="208" width="670" height="701" key="#Fraction" timestamp="1575294340380">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="208" width="670" height="701" key="#Fraction/70.27.1850.1053@70.27.1850.1053" timestamp="1575294340380" />
+    <state x="605" y="296" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575294332163">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="605" y="296" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1575294332163" />
+    <state x="878" y="418" width="525" height="441" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575294323942">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="878" y="418" width="525" height="441" key="#com.intellij.ide.util.TreeClassChooserDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1575294323942" />
+    <state x="839" y="444" width="307" height="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575294284178">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="839" y="444" width="307" height="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1575294284178" />
+    <state x="487" y="187" width="1016" height="743" key="SettingsEditor" timestamp="1575294252161">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="487" y="187" width="1016" height="743" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1575294252161" />
+  </component>
+</project>
