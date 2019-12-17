@@ -5,5 +5,5 @@ public class Vertex {
     int color;
     static final int WHITE = 0;
     static final int GREY = 1;
-    final int BLACK = -1;
+    static final int BLACK = -1;
 }
