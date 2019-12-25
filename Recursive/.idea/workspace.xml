@@ -1,18 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d4d8aec-2cab-4810-aff4-d534f4ed0caf" name="Default Changelist" comment="" />
+    <list default="true" id="6d4d8aec-2cab-4810-aff4-d534f4ed0caf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BinaryTree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTree/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTree/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTree/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTree/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTree/BinaryTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTree/src/com/company/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTree/src/com/company/NodeStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTree/src/com/company/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fraction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fraction/src/com/company/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fraction/src/com/company/FractionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fraction/src/com/company/FractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackExample/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackExample/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackExample/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackExample/StackExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dijktra/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dijktra/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dijktra/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dijktra/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dijktra/src/com/company/WeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dijktra/src/com/company/WeightedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElementarySort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ElementarySort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraction/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraction/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraction/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraction/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/Fraction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraction/Fraction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraction/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/.idea/FractionApplication.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FractionApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/build/classes/_netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/build/classes/_netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/com/fgw/gch0712/Fraction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/com/fgw/gch0712/FractionApplication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/com/fgw/gch0712/class-use/Fraction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/com/fgw/gch0712/class-use/FractionApplication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/com/fgw/gch0712/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/com/fgw/gch0712/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/com/fgw/gch0712/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/com/fgw/gch0712/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/dist/javadoc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/src/com/fgw/gch0712/Fraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/src/com/fgw/gch0712/FractionApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FractionApplication/src/com/fgw/gch0712/FractionException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Uqq3Ef5Jz3vBXMoIfJfVIi4f2M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -57,26 +156,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1576123612321">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1577157500740">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576123612321" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1576123612321">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577157500740" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1577157500740">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576123612321" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1576123612321">
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577157500740" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1577157500740">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576123612321" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1576123612321">
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577157500740" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1577157500740">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576123612321" />
-    <state x="203" y="39" key="new project wizard" timestamp="1576123610934">
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577157500740" />
+    <state x="279" y="55" key="SettingsEditor" timestamp="1577155002987">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="203" y="39" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1576123610934" />
+    <state x="279" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577155002987" />
+    <state x="203" y="0" key="new project wizard" timestamp="1577157425175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="203" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1577157425175" />
     <state x="479" y="38" key="refactoring.ChangeSignatureDialog" timestamp="1576090423643">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

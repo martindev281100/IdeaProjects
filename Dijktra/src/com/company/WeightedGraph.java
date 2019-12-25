@@ -76,6 +76,7 @@ public class WeightedGraph {
         }
         return tobeChecked.remove(minIndex);
     }
+
     // print shortest path from root to u
     public void printShortestPath(int u) {
         while (u != 0) {

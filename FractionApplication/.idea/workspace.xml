@@ -1,29 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48431601-f2e6-45af-b6c2-8d19e815780f" name="Default Changelist" comment="" />
+    <list default="true" id="a0c62175-db9c-47f5-b2a5-9c11adb74825" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Dijktra/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dijktra/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dijktra/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dijktra/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraction/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraction/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraction/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/Fraction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraction/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraction/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FractionApplication.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/_netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/_netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/com/fgw/gch0712/Fraction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/com/fgw/gch0712/FractionApplication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/com/fgw/gch0712/class-use/Fraction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/com/fgw/gch0712/class-use/FractionApplication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/com/fgw/gch0712/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/com/fgw/gch0712/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/com/fgw/gch0712/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/com/fgw/gch0712/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/javadoc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fgw/gch0712/Fraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fgw/gch0712/FractionApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fgw/gch0712/FractionException.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1UQgS14iLTLllsUIA6TPIWLfHgM" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1VBXbocbq1Rr8trp5i1EgSUM6wo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
-  </component>
-  <component name="RunManager">
-    <configuration name="Fraction" type="Application" factoryName="Application">
-      <module name="FractionApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -42,34 +91,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="48431601-f2e6-45af-b6c2-8d19e815780f" name="Default Changelist" comment="" />
-      <created>1575294228550</created>
+      <changelist id="a0c62175-db9c-47f5-b2a5-9c11adb74825" name="Default Changelist" comment="" />
+      <created>1576727535971</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575294228550</updated>
+      <updated>1576727535971</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="658" y="208" width="670" height="701" key="#Fraction" timestamp="1575294340380">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="225" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576727582800">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="658" y="208" width="670" height="701" key="#Fraction/70.27.1850.1053@70.27.1850.1053" timestamp="1575294340380" />
-    <state x="605" y="296" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575294332163">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="225" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576727582800" />
+    <state x="499" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576727580990">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="605" y="296" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1575294332163" />
-    <state x="878" y="418" width="525" height="441" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575294323942">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="499" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1576727580990" />
+    <state x="606" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576727593597">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="878" y="418" width="525" height="441" key="#com.intellij.ide.util.TreeClassChooserDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1575294323942" />
-    <state x="839" y="444" width="307" height="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575294284178">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="606" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1576727593597" />
+    <state x="550" y="170" key="FileChooserDialogImpl" timestamp="1576727764100">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="839" y="444" width="307" height="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1575294284178" />
-    <state x="487" y="187" width="1016" height="743" key="SettingsEditor" timestamp="1575294252161">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="550" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576727764100" />
+    <state x="203" y="39" key="new project wizard" timestamp="1576727802884">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="487" y="187" width="1016" height="743" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1575294252161" />
+    <state x="203" y="39" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1576727802884" />
   </component>
 </project>

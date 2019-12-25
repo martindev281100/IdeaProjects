@@ -9,14 +9,12 @@ public class Main {
         try {
             WeightedGraph graph = new WeightedGraph();
             graph.dijkstra();
-            for (int u= 1; u < 6; u++)
-            {
+            for (int u = 1; u < 6; u++) {
                 graph.printShortestPath(u);
             }
 
-        } catch (FileNotFoundException ex)
-        {
+        } catch (FileNotFoundException ex) {
             System.out.println("File input.txt not found");
         }
     }
-}
+            }
