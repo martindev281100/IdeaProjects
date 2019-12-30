@@ -1,7 +1,7 @@
 package com.company;
 
 class ReceiveStack {
-    private int max ;
+    private int max;
     private int top;
     private final String[] stack;
 
@@ -11,8 +11,13 @@ class ReceiveStack {
         top = -1;
     }
 
-    public void clear() {
-        top = -1;
+    public String pop() {
+        if (isEmpty()) {
+            throw new StackEmptyException("Empty stack!");
+        } else {
+            String a = stack[top--];
+            return a;
+        }
     }
 
     public boolean isEmpty() {
