@@ -18,7 +18,6 @@ public class Main {
         int deQueue = queue.remove();
         System.out.println("Remove element: " + deQueue);
         System.out.println("Queue: " + queue);
-        System.out.println("Check empty: "+ queue.isEmpty());
         System.out.println("Peek: "+ queue.peek());
     }
 }

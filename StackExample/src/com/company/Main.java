@@ -32,6 +32,5 @@ public class Main {
 
         System.out.println("Peek element: " + stack.peek());
         System.out.println("Check Empty: "+ stack.isEmpty());
-
     }
 }
