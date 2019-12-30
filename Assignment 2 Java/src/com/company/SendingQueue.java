@@ -1,6 +1,6 @@
 package com.company;
 
-public class SendingQueue {
+ class SendingQueue {
     private Node head;
     private Node tail;
 
@@ -25,7 +25,8 @@ public class SendingQueue {
             tail.next = n;
             tail = tail.next;
         }
-        public String deQueue () throw Exception
+    }
+        public String deQueue() throws Exception
         {
             if (isEmpty()) throw new Exception("Empty queue");
             String a = head.data;
@@ -34,7 +35,6 @@ public class SendingQueue {
                 return a;
             }
             head = head.next;
-            return x;
+            return a;
         }
     }
-}
