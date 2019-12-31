@@ -27,7 +27,7 @@ class MyQueue {
     }
     public String deQueue() throws Exception
     {
-        if (isEmpty()) throw new Exception ("Can do dequeue from at empty Queue");
+        if (isEmpty()) throw new Exception ("Empty queue!");
         String x = head.data;
         if(head == tail){
             head = tail = null;
