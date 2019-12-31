@@ -3,42 +3,48 @@ package com.company;
 class SendingQueue {
     private String[] array;
     private int max, top;
-    private Node head;
-    private Node tail;
 
-    public void SendingQueue() {
-        head = tail = null;
+    public SendingQueue(int max) {
+        this.max = max;
+        array = new String[max];
+        top = -1;
     }
 
     public boolean isEmpty() {
-        return (head == null);
+        if (top == -1) return true;
+        else return false;
     }
 
-    public void enQueue(String message) {
-        Node n = new Node(message);
-        if (isEmpty()) {
-            head = n;
-            tail = n;
+    public boolean isFull() {
+        if (top == max - 1) return true;
+        return false;
+    }
+
+    public void enQueue(String messages) {
+        if (isFull()) {
+            System.out.println("Queue is full !");
             return;
         } else {
-            n.setNext(head);
-            head = n;
-            return;
+            top = 1+top;
+            array[top] = messages;
         }
     }
-
 
     public String deQueue() {
-        if (isEmpty()) throw new QueueEmptyException("Empty queue!");
-        String a = head.data;
-        if (head == tail) {
-            head = tail = null;
-            return a;
+        if (isEmpty()) {
+            throw new QueueEmptyException("Queue is empty");
         } else {
-            Node n = head;
-            head = n.getNext();
-            n.setNext(null);
+            String a = array[0];
+            for (int i = 0; i < top; i++) {
+                array[i] = array[i + 1];
+            }
+            top--;
             return a;
         }
+    }
+
+    public int size() {
+       int s = top +1;
+       return s;
     }
 }
