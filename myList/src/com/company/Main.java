@@ -8,12 +8,9 @@ public class Main {
         list.addFirst(6);
         list.addFirst(7);
 
-        list.addLast(100);
-        list.addLast(101);
-        list.addLast(102);
 
-        list.deleteFirst();
-        list.deleteLast();
+
+        //list.deleteFirst();
 
         list.print();
     }

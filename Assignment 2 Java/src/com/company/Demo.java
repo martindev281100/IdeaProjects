@@ -6,7 +6,7 @@ import java.util.*;
 
 public class Demo {
     SendingQueue transferQueue = new SendingQueue(5);
-    ReceiveStack workStack = new ReceiveStack(250);
+    ReceiveStack workStack = new ReceiveStack();
 
 
     public void Menu() {

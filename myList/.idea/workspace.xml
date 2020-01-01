@@ -2,23 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd704179-17e3-4b51-8b38-458072ea3db0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/CodeDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/out/production/CodeDemo/META-INF/CodeDemo.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/src/com/fgw/gch0712/MessageSystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/src/com/fgw/gch0712/MessageSystem/MenuSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/src/com/fgw/gch0712/MessageSystem/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/src/com/fgw/gch0712/MessageSystem/QueueEmptyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/src/com/fgw/gch0712/MessageSystem/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDemo/src/com/fgw/gch0712/MessageSystem/StackEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/Asm2_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/src/com/company/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/src/com/company/MessagesQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/src/com/company/MessagesStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/src/com/company/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asm2_Java/src/com/company/StackEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_stack/test_stack.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment 2 Java/src/com/company/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2 Java/src/com/company/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment 2 Java/src/com/company/ReceiveStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2 Java/src/com/company/ReceiveStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment 2 Java/src/com/company/SendingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2 Java/src/com/company/SendingQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SinglyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SinglyList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,21 +101,25 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="969" y="246" width="424" height="497" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1575939009530" />
-    <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1575349254136">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1577894199530">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577894199530" />
     <state width="1804" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1575349254136" />
-    <state width="1804" height="275" key="GridCell.Tab.0.center" timestamp="1575349254135">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1577894199530">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577894199530" />
     <state width="1804" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1575349254135" />
-    <state width="1804" height="275" key="GridCell.Tab.0.left" timestamp="1575349254134">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1577894199530">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577894199530" />
     <state width="1804" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1575349254134" />
-    <state width="1804" height="275" key="GridCell.Tab.0.right" timestamp="1575349254136">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1577894199530">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577894199530" />
     <state width="1804" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1575349254136" />
     <state x="487" y="181" width="1016" height="743" key="SettingsEditor" timestamp="1575346608982">
       <screen x="70" y="27" width="1850" height="1053" />

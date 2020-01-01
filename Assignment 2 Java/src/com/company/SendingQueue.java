@@ -23,7 +23,6 @@ class SendingQueue {
     public void enQueue(String messages) {
         if (isFull()) {
             System.out.println("Queue is full !");
-            return;
         } else {
             top = 1+top;
             array[top] = messages;

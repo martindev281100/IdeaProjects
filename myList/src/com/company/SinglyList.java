@@ -94,8 +94,7 @@ public class SinglyList {
             head = tail = null;
         }
         Node prev = head;
-        while(prev.getNext()!= tail)
-        {
+        while (prev.getNext() != tail) {
             prev = prev.getNext();
         }
         tail = prev;
