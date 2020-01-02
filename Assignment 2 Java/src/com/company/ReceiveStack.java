@@ -1,7 +1,6 @@
 package com.company;
 
 class ReceiveStack {
-    public String message;
     private int max;
     private int top;
     private final String[] stack;
@@ -16,8 +15,7 @@ class ReceiveStack {
         if (isEmpty()) {
             throw new StackEmptyException("Empty stack!");
         } else {
-            String a = stack[top--];
-            return a;
+            return stack[top--];
         }
     }
 
@@ -35,12 +33,13 @@ class ReceiveStack {
 
     //Viet ham kiem tra xem stack co chua mot message khong, neu co thi tra ve true, ko thi tra ve false
     public boolean search(String a) {
-        String b = stack[];
-        if (a.contains(b)) {
-            return true;
-        } else {
-            return false;
-        }
+
+        String b = stack[top];
+        do {
+            if (a.contains(b))
+             return true;
+        } while (a.contains(b));
+        return false;
     }
 }
 

@@ -25,7 +25,7 @@ class SendingQueue {
             System.out.println("Queue is full !");
             return;
         } else {
-            top = 1+top;
+            top = 1 + top;
             array[top] = messages;
         }
     }
@@ -44,7 +44,7 @@ class SendingQueue {
     }
 
     public int size() {
-       int s = top +1;
-       return s;
+        int s = top + 1;
+        return s;
     }
 }
